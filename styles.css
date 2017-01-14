@@ -1,0 +1,26 @@
+/*
+    Document   : styles.css
+    Created on : 2016-11-19 04:19 PM
+    Author     : zmuhmmand
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+ .round{
+                border-radius:50%;
+      border: solid 10px blue;
+            }
+.card{
+    background-color: green;
+    height:200px; 
+    width:100px;
+}
+.card-title{
+    background-color: blue;
+    height:100px;
+    width:50px;
+}
